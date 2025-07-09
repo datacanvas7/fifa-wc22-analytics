@@ -20,3 +20,5 @@ Explore how possession, pressure, and precision shaped the outcomes of the FIFA 
 - Does more possession lead to more wins?  
 - Who had the highest shot accuracy?  
 - How did team strategies change from group stages to knockouts?
+
+---
